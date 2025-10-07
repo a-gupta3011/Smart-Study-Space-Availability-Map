@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+requests
+streamlit
+streamlit_folium
+streamlit_autorefresh
+plotly
+mantine
